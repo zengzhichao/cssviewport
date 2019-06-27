@@ -1,0 +1,8 @@
+{
+	"disable": 0,
+    "unitToCovert": "px",
+    "viewportWidth": 750,
+    "unitPrecision": 5,
+    "viewportUnit": "vw",
+    "available_file_types": [".css", ".less", ".sass", ".phtml"]
+}
